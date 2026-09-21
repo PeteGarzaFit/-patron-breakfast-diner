@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+<title id="title">Patron Breakfast Diner logo</title><desc id="desc">Circular Patron Breakfast Diner logo with steaming coffee cup and plate and utensils motif.</desc>
+<defs><style>
+.t{font-family:Arial,Helvetica,sans-serif;fill:#252a2e}.heavy{font-weight:800}.wide{letter-spacing:5px}.small{font-size:23px;letter-spacing:6px}.tiny{font-size:20px;letter-spacing:5px}
+</style></defs>
+<circle cx="400" cy="400" r="382" fill="#fffdf8" stroke="#252a2e" stroke-width="12"/>
+<g fill="#252a2e">
+<path d="M292 236c-20-28 14-52 26-80 12 27 31 43 21 70-8 20-25 28-47 10zm55 3c-13-28 15-50 24-75 16 28 29 47 16 72-9 18-24 25-40 3zm51 0c-7-24 16-43 24-64 13 23 21 42 11 62-7 14-20 18-35 2z"/>
+<path d="M275 280c0-15 12-27 27-27h196c15 0 27 12 27 27v31c0 73-55 119-125 119h-1c-70 0-124-46-124-119zm250 17h30c36 0 58 24 58 54s-22 54-58 54h-39v-25h36c20 0 34-12 34-29s-14-29-34-29h-27z"/>
+<ellipse cx="400" cy="283" rx="95" ry="16" fill="#fffdf8"/>
+<g fill="none" stroke="#252a2e" stroke-width="7">
+<ellipse cx="286" cy="397" rx="15" ry="24" transform="rotate(-35 286 397)"/>
+<path d="M278 387l16 20"/>
+<ellipse cx="320" cy="416" rx="15" ry="24" transform="rotate(-35 320 416)"/>
+<path d="M312 406l16 20"/>
+</g>
+</g>
+<text x="400" y="490" text-anchor="middle" class="t heavy" font-size="74" letter-spacing="1">PATR<tspan>O</tspan>N</text>
+<!-- plate + utensils over the O -->
+<g fill="none" stroke="#252a2e" stroke-width="5">
+<ellipse cx="457" cy="468" rx="30" ry="23"/><ellipse cx="457" cy="468" rx="23" ry="16"/>
+<path d="M425 430v72M418 430v29M425 430v29M432 430v29M432 430v72"/>
+<path d="M492 430c0 26-12 37-12 37v35M492 430v72M492 430c0-26 12-37 12-37"/>
+</g>
+<text x="400" y="555" text-anchor="middle" class="t heavy wide" font-size="38">BREAKFAST DINER</text>
+<text x="400" y="603" text-anchor="middle" class="t small">BREAKFAST LUNCH DINNER</text>
+<path d="M215 653h130M455 653h130" stroke="#252a2e" stroke-width="4"/>
+<text x="400" y="662" text-anchor="middle" class="t" font-size="30">est. 2024</text>
+</svg>
